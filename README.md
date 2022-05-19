@@ -1,5 +1,5 @@
 <p align="center">
-  <img class="gatsby-resp-image-image" src="https://giffiles.alphacoders.com/480/48065.gif" width="400">
+  <img class="gatsby-resp-image-image" src="https://giffiles.alphacoders.com/146/14616.gif" width="900">
 </p>
 <!--
 **Melchioretto/Melchioretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
