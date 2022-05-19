@@ -1,5 +1,6 @@
-https://giffiles.alphacoders.com/480/48065.gif
-
+<p align="left">
+  <img class="gatsby-resp-image-image" src="https://giffiles.alphacoders.com/480/48065.gif" width="400">
+</p>
 <!--
 **Melchioretto/Melchioretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
