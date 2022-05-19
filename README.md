@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img class="gatsby-resp-image-image" src="https://giffiles.alphacoders.com/480/48065.gif" width="400">
 </p>
 <!--
